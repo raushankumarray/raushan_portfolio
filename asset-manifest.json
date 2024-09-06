@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/satyendra_portfolio/static/css/main.85a23615.css",
+    "main.js": "/satyendra_portfolio/static/js/main.1d327edd.js",
+    "static/media/HeroImage.jpg": "/satyendra_portfolio/static/media/HeroImage.d7e605b3ec2517963a5f.jpg",
+    "index.html": "/satyendra_portfolio/index.html",
+    "main.85a23615.css.map": "/satyendra_portfolio/static/css/main.85a23615.css.map",
+    "main.1d327edd.js.map": "/satyendra_portfolio/static/js/main.1d327edd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a23615.css",
+    "static/js/main.1d327edd.js"
+  ]
+}
